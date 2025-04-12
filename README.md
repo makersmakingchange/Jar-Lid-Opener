@@ -1,11 +1,10 @@
 # Jar Lid Opener
 The Jar Lid Opener helps to break the seal of the lid on a canned jar. 
 
-<img src="Photos/Jar_Lid_Opener.jpg" width="500" alt="Picture of Jar Lid Opener.">
+<img src="Photos/Jar_Lid_Opener.jpg" height="500" alt="Picture of Jar Lid Opener.">
 
-## More info at
-- [Makers Making Change Project Page](https://www.makersmakingchange.com/s/product/jar-lid-opener/01tJR000000692DYAQ)
-
+## Makers Making Change Assistive Device Library
+ - https://www.makersmakingchange.com/s/product/jar-lid-opener/01tJR000000692DYAQ
 
 ## How to Obtain a Jar Lid Opener
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -24,20 +23,16 @@ If you have the skills and equipment to build this device, and would like to don
 ## Getting Started
 
 ### 1. Read the Makers Checklist
-
-The Makers Checklist 
+The Makers Checklist contains all steps required to assemble the device.
 
 ### 2. Order the Off-The-Shelf Components
-
 The [Bill of Materials](/Documentation/Jar_Lid_Opener_BOM_V1.0.xlsx) lists all of the parts and components required to build the Jar Lid Opener. 
 
 
 ### 3. Print the 3D Printable components
-
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 4. Assemble the Jar Lid Opener
-
 Reference the [Assembly Guide](/Documentation/Jar_Lid_Opener_Assembly_Guide_V1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
@@ -60,8 +55,8 @@ Reference the [Assembly Guide](/Documentation/Jar_Lid_Opener_Assembly_Guide_V1.0
 
 ## Attribution
 Designers:
-	-Design by [Dylan Wieczerzak](https://makersmakingchange.com/forum/users/dmw38/) on makersmakingchange.com
-	-Documentation by Neil Squire Society/Makers Making Change
+ - Design by [Dylan Wieczerzak](https://makersmakingchange.com/forum/users/dmw38/) on makersmakingchange.com
+ - Documentation by Neil Squire Society/Makers Making Change
 
 ## License
 Everything needed or used to design, make, test, or prepare the Jar Lid Opener is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/).
@@ -69,8 +64,9 @@ Everything needed or used to design, make, test, or prepare the Jar Lid Opener i
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Jar Lid Opener are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
 
----
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -89,3 +85,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
